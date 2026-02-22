@@ -1,0 +1,11 @@
+action,displayName,upn,department
+create,John Doe,john.doe@,Sales
+disable,Jane Smith,jane.smith@,Marketing
+create,Alex Johnson,alex.johnson@,IT
+disable,Emily Davis,emily.davis@,Finance
+create,Michael Brown,michael.brown@,HR
+create,Olivia Thompson,olivia.thompson@,Operations
+disable,Brian Walker,brian.walker@,Legal
+create,Sarah Wilson,sarah.wilson@,Support
+disable,Daniel Lewis,daniel.lewis@,IT
+create,Ash Williams,ash.Williams@,Marketing
