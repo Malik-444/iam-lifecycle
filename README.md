@@ -37,7 +37,7 @@
   <pre>
 fastapi_project/
 ├─ users.csv          # Mock CSV with sample users
-├─ lifecycle.py       # Python script for automation
+├─ main.py            # Python script for automation
 ├─ README.md          # Project documentation
 └─ lifecycle.log      # Logging of automated actions
   </pre>
@@ -54,11 +54,11 @@ fastapi_project/
   <ol>
     <li>Clone the repository</li>
     <li>Install required packages:
-      <pre>pip install msal pandas</pre>
+      <pre>pip install -r requirements.txt</pre>
     </li>
-    <li>Fill in your Azure AD app credentials in <code>lifecycle.py</code></li>
+    <li>Fill in your Azure AD app credentials in <code>.env</code></li>
     <li>Run the script:
-      <pre>python lifecycle.py</pre>
+      <pre>python main.py</pre>
     </li>
     <li>Check <code>lifecycle.log</code> for automated actions</li>
   </ol>
