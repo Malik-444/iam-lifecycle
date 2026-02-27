@@ -33,7 +33,7 @@
     <li><strong>Assume breach:</strong> Automated logging and monitoring enable rapid detection and mitigation.</li>
   </ul>
 
-  <h2>📁 Project Structure</h2>
+  <h2> Project Structure</h2>
   <pre>
 fastapi_project/
 ├─ users.csv          # Mock CSV with sample users
