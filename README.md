@@ -5,7 +5,7 @@
  
 </head>
 <body>
-  <h1>🚀 Azure AD Identity Lifecycle Automation</h1>
+  <h1>Azure AD Identity Lifecycle Automation</h1>
 
   <p>Automated user provisioning and deprovisioning in Azure AD using Microsoft Graph API and Python.</p>
 
@@ -16,7 +16,7 @@
     <li>Disable or remove users (leavers)</li>
   </ul>
 
-  <h2>🚨 Enterprise Problem This Project Solves</h2>
+  <h2> Enterprise Problem This Project Solves</h2>
   <p>Modern enterprises often struggle with identity lifecycle management:</p>
   <ul>
     <li>Delayed deprovisioning creates security risks and access creep</li>
@@ -25,7 +25,7 @@
   </ul>
   <p>This project automates these workflows, reducing human error, improving security posture, and ensuring audit readiness.</p>
 
-  <h2>🛡 Zero Trust Alignment</h2>
+  <h2> Zero Trust Alignment</h2>
   <p>This project aligns with core <strong>Zero Trust security principles</strong>, where identity is the primary security boundary.</p>
   <ul>
     <li><strong>Verify explicitly:</strong> Users and access rights are validated automatically against Azure AD.</li>
@@ -42,7 +42,7 @@ fastapi_project/
 └─ lifecycle.log      # Logging of automated actions
   </pre>
 
-  <h2>💻 Technologies Used</h2>
+  <h2> Technologies Used</h2>
   <ul>
     <li>Python 3.x</li>
     <li>Microsoft Graph API</li>
@@ -50,7 +50,7 @@ fastapi_project/
     <li>Logging and CSV processing</li>
   </ul>
 
-  <h2>⚡ How to Run</h2>
+  <h2> How to Run</h2>
   <ol>
     <li>Clone the repository</li>
     <li>Install required packages:
@@ -63,7 +63,7 @@ fastapi_project/
     <li>Check <code>lifecycle.log</code> for automated actions</li>
   </ol>
 
-  <h2>📊 Logging & Auditing</h2>
+  <h2> Logging & Auditing</h2>
   <p>All lifecycle events are logged to <code>lifecycle.log</code> for auditing purposes, including:</p>
   <ul>
     <li>Users successfully created</li>
@@ -72,7 +72,7 @@ fastapi_project/
     <li>Errors such as user already exists or cannot disable</li>
   </ul>
 
-  <h2>🎯 Key Takeaways</h2>
+  <h2> Key Takeaways</h2>
   <ul>
     <li>Automates repetitive IAM tasks in enterprise Azure AD environments</li>
     <li>Reduces human error and improves security posture</li>
