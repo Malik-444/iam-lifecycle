@@ -72,18 +72,5 @@ fastapi_project/
     <li>Errors such as user already exists or cannot disable</li>
   </ul>
 
-  <h2> Key Takeaways</h2>
-  <ul>
-    <li>Automates repetitive IAM tasks in enterprise Azure AD environments</li>
-    <li>Reduces human error and improves security posture</li>
-    <li>Provides a reusable framework for real-world identity lifecycle management</li>
-  </ul>
-
-  <p>By presenting this project in your resume or portfolio, you demonstrate:</p>
-  <ul>
-    <li>Hands-on Azure IAM skills</li>
-    <li>Automation and scripting for identity governance</li>
-    <li>Alignment with Zero Trust and enterprise security standards</li>
-  </ul>
 </body>
 </html>
